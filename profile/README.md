@@ -17,7 +17,3 @@
  ▀███▀███▀  █▀    ▀████████▀   ███    █▀    ███    ███ ████████▀   ▄████████▀
          s c r i p t w i z a r d s . o r g
 ```
----
-
-Script Wizards is a creative software studio.  
-We make tools for TTRPGs, and a zine for hackers who play them.
