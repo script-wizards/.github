@@ -19,5 +19,5 @@
 ```
 ---
 
-Script Wizards is a creative software studio.
+Script Wizards is a creative software studio.  
 We make tools for TTRPGs, and a zine for hackers who play them.
